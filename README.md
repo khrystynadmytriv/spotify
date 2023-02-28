@@ -20,4 +20,4 @@ import folium
 import pycountry
 ```
 
-![The example of the map](Знімок екрана 2023-02-28 о 23.16.05.png)
+![App_Screenshots](Знімок екрана 2023-02-28 о 23.16.05.png)
