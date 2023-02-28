@@ -20,4 +20,4 @@ import folium
 import pycountry
 ```
 
-![App Screenshot](Знімок екрана 2023-02-28 о 23.16.05.png)
+![App Screenshot](song_map.png)
