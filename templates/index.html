@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form action="/map" method="post">
+            <label for="name">Artist name:</label><br>
+            <input name="name" type="text" value = "{{ request.form['name']}}"/><br>
+            <input type="submit" value="Submit">
+        </form> 
+    </body>
+</html>
+
