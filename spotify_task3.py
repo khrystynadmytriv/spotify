@@ -9,7 +9,7 @@ import folium
 import pycountry
 
 CLIENT_ID = 'b2d4daf524d44f81a1d5902946f765ce'
-CLIENT_SECRET = '2390f673b70f4e398cbb41b716c4208e'
+CLIENT_SECRET = '2390f673b70f4e398cbb74b716c4208e'
 
 def get_token():
     """
